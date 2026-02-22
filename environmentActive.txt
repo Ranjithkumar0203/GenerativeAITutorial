@@ -15,3 +15,6 @@ https://docs.langchain.com/oss/python/integrations/chat/ollama
 
 https://smith.langchain.com/o/f10d71b3-75b5-4433-8e38-b290ed955cb1/settings/apikeys
 
+
+https://www.youtube.com/watch?v=pSVk-5WemQ0&list=PLKnIA16_RmvaTbihpo4MtzVm4XOQa0ER0
+
