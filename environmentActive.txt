@@ -1,0 +1,17 @@
+do below inside python folder
+rm -rf venv
+python -m venv venv
+source venv/Scripts/activate
+
+pip install -r requirements.txt
+
+python -m uvicorn main:app --reload --host 0.0.0.0 --port 8000
+
+ng serve --host 0.0.0.0 --port 4200
+
+
+
+https://docs.langchain.com/oss/python/integrations/chat/ollama
+
+https://smith.langchain.com/o/f10d71b3-75b5-4433-8e38-b290ed955cb1/settings/apikeys
+
